@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "191179_MSaadShafqat_MCLABFINAL"
